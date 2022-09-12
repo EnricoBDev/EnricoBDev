@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @EnricoBDev
-- 
+- 🤓 Graph teory nerd
 - 🌱 I’m currently learning python and flutter
